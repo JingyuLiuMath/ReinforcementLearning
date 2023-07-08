@@ -39,7 +39,7 @@ class MaxBias:
 
         # Environment setting.
         self.arm_number_ = arm_number  # Number of arms.
-        self.mu_ = mu  # Expection of each arm.
+        self.mu_ = mu  # Expectation of each arm.
         self.sigma_ = sigma  # Standard deviation of each arm.
 
         # Value function:
